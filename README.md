@@ -17,8 +17,8 @@ This repo i know that can grow even more, so if you like it a :star: can be appr
 DONE:
 - [x] MYSQL
 - [x] POSTGRESQL
+- [x] SQL-SERVER
 
 
 TODO:
 - [ ] ORACLE
-- [ ] SQL-SERVER
