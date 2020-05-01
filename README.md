@@ -12,7 +12,7 @@ You can add the functions to any part or even call it from your Backend and sani
 - EMPTY VALUES
 - Tags(yeah tags like the ones that javascript uses)
 
-This repo i know that can grow even more, so if you like it a :star: can be appreciated or if you wanna add some functionality a Pull Request is always welcome!
+This repo i know that can grow even more, so if you like it then :star: can be appreciated or if you wanna add some functionality a Pull Request is always welcome!
 
 DONE:
 - [x] MYSQL
