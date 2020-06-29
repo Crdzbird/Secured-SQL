@@ -68,6 +68,8 @@ DONE:
 
 TODO:
 - [ ] ORACLE
+- [ ] JSON VALIDATIONS
+- [ ] ARRAYS VALIDATIONS
 
 
 ### Contributing
